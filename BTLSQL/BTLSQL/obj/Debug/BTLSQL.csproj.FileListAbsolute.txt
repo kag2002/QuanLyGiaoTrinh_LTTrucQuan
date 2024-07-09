@@ -1,0 +1,12 @@
+D:\MenuObject\LTTQ\BTLSQL\BTLSQL\bin\Debug\BTLSQL.exe.config
+D:\MenuObject\LTTQ\BTLSQL\BTLSQL\bin\Debug\BTLSQL.exe
+D:\MenuObject\LTTQ\BTLSQL\BTLSQL\bin\Debug\BTLSQL.pdb
+D:\MenuObject\LTTQ\BTLSQL\BTLSQL\obj\Debug\BTLSQL.csproj.AssemblyReference.cache
+D:\MenuObject\LTTQ\BTLSQL\BTLSQL\obj\Debug\BTLSQL.csproj.SuggestedBindingRedirects.cache
+D:\MenuObject\LTTQ\BTLSQL\BTLSQL\obj\Debug\BTLSQL.Form1.resources
+D:\MenuObject\LTTQ\BTLSQL\BTLSQL\obj\Debug\BTLSQL.Properties.Resources.resources
+D:\MenuObject\LTTQ\BTLSQL\BTLSQL\obj\Debug\BTLSQL.csproj.GenerateResource.cache
+D:\MenuObject\LTTQ\BTLSQL\BTLSQL\obj\Debug\BTLSQL.csproj.CoreCompileInputs.cache
+D:\MenuObject\LTTQ\BTLSQL\BTLSQL\obj\Debug\BTLSQL.exe
+D:\MenuObject\LTTQ\BTLSQL\BTLSQL\obj\Debug\BTLSQL.pdb
+D:\MenuObject\LTTQ\BTLSQL\BTLSQL\obj\Debug\BTLSQL.Form2.resources

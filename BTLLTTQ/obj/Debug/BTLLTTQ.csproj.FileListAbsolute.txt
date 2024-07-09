@@ -1,0 +1,429 @@
+C:\Users\DELL\source\repos\BTLLTTQ\BTLLTTQ\bin\Debug\BTLLTTQ.exe.config
+C:\Users\DELL\source\repos\BTLLTTQ\BTLLTTQ\bin\Debug\BTLLTTQ.exe
+C:\Users\DELL\source\repos\BTLLTTQ\BTLLTTQ\bin\Debug\BTLLTTQ.pdb
+C:\Users\DELL\source\repos\BTLLTTQ\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BTLLTTQ\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\BTLLTTQ\BTLLTTQ\obj\Debug\BTLLTTQ.Form1.resources
+C:\Users\DELL\source\repos\BTLLTTQ\BTLLTTQ\obj\Debug\BTLLTTQ.Properties.Resources.resources
+C:\Users\DELL\source\repos\BTLLTTQ\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\BTLLTTQ\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BTLLTTQ\BTLLTTQ\obj\Debug\BTLLTTQ.exe
+C:\Users\DELL\source\repos\BTLLTTQ\BTLLTTQ\obj\Debug\BTLLTTQ.pdb
+C:\Users\DELL\source\repos\BTLLTTQ\BTLLTTQ\obj\Debug\BTLLTTQ.Form2.resources
+C:\Users\DELL\source\repos\BTLLTTQ\BTLLTTQ\obj\Debug\BTLLTTQ.Form3.resources
+C:\Users\DELL\source\repos\BTLLTTQ\BTLLTTQ\bin\Debug\Database1.mdf
+C:\Users\DELL\source\repos\BTLLTTQ\BTLLTTQ\bin\Debug\Database1_log.ldf
+C:\Users\Acer\Downloads\bt\BTLLTTQ\bin\Debug\Database1.mdf
+C:\Users\Acer\Downloads\bt\BTLLTTQ\bin\Debug\Database1_log.ldf
+C:\Users\Acer\Downloads\bt\BTLLTTQ\bin\Debug\BTLLTTQ.exe.config
+C:\Users\Acer\Downloads\bt\BTLLTTQ\bin\Debug\BTLLTTQ.exe
+C:\Users\Acer\Downloads\bt\BTLLTTQ\bin\Debug\BTLLTTQ.pdb
+C:\Users\Acer\Downloads\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Downloads\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form1.resources
+C:\Users\Acer\Downloads\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form2.resources
+C:\Users\Acer\Downloads\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form3.resources
+C:\Users\Acer\Downloads\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Properties.Resources.resources
+C:\Users\Acer\Downloads\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\bt\BTLLTTQ\obj\Debug\BTLLTTQ.exe
+C:\Users\Acer\Downloads\bt\BTLLTTQ\obj\Debug\BTLLTTQ.pdb
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\Database1.mdf
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\Database1_log.ldf
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\BTLLTTQ.exe.config
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\BTLLTTQ.exe
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\BTLLTTQ.pdb
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.AssemblyReference.cache
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.SuggestedBindingRedirects.cache
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form1.resources
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form2.resources
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form3.resources
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Properties.Resources.resources
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.GenerateResource.cache
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.CoreCompileInputs.cache
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.exe
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.pdb
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form4.resources
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\EnvDTE.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\stdole.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.CopyComplete
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormBC.resources
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormReport3.resources
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.ResolveComReference.cache
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormK.resources
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormTacgia.resources
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormThemuon.resources
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormHuy.resources
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormRP1.resources
+D:\MenuObject\LTTQ\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormRP2.resources
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\CustomControls.dll
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\CustomControls.pdb
+D:\MenuObject\LTTQ\bt\BTLLTTQ\bin\Debug\CustomControls.dll.config
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\Database1.mdf
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\Database1_log.ldf
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\BTLLTTQ.exe.config
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\BTLLTTQ.exe
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\BTLLTTQ.pdb
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\EnvDTE.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\stdole.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\CustomControls.pdb
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\CustomControls.dll.config
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.ResolveComReference.cache
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form1.resources
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form2.resources
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form3.resources
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form4.resources
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormBC.resources
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormHuy.resources
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormK.resources
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormReport3.resources
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormRP1.resources
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormRP2.resources
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormTacgia.resources
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormThemuon.resources
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Properties.Resources.resources
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.CopyComplete
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.exe
+C:\Users\DELL\Downloads\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.pdb
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\Database1.mdf
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\Database1_log.ldf
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\BTLLTTQ.exe.config
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\BTLLTTQ.exe
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\BTLLTTQ.pdb
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\stdole.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\CustomControls.pdb
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\CustomControls.dll.config
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.ResolveComReference.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form1.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form2.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form3.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form4.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormBC.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormHuy.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormK.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormReport3.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormRP1.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormRP2.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormTacgia.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormThemuon.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Properties.Resources.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.CopyComplete
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.exe
+C:\Users\Admin\Documents\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.pdb
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\Database1.mdf
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\Database1_log.ldf
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\BTLLTTQ.exe.config
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\BTLLTTQ.exe
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\BTLLTTQ.pdb
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\EnvDTE.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\stdole.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\CustomControls.pdb
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\CustomControls.dll.config
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.AssemblyReference.cache
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.ResolveComReference.cache
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form1.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form2.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form3.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form4.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormBC.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormHuy.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormK.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormReport3.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormRP1.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormRP2.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormTacgia.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormThemuon.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Properties.Resources.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.GenerateResource.cache
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.CoreCompileInputs.cache
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.CopyComplete
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.exe
+D:\Môn đã học xong\LapTrinhTrucQuan\CodeVisualStudio\btlfinal\btlfinal\bt\BTLLTTQ\obj\Debug\BTLLTTQ.pdb
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\Database1.mdf
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\Database1_log.ldf
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\BTLLTTQ.exe.config
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\BTLLTTQ.exe
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\BTLLTTQ.pdb
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\EnvDTE.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\stdole.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\CustomControls.pdb
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\CustomControls.dll.config
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.AssemblyReference.cache
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.ResolveComReference.cache
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form1.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form2.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form3.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Form4.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormBC.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormHuy.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormK.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormReport3.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormRP1.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormRP2.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormTacgia.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.FormThemuon.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.Properties.Resources.resources
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.GenerateResource.cache
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.CoreCompileInputs.cache
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.csproj.CopyComplete
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.exe
+D:\Môn đã học xong\LapTrinhTrucQuan\bt\BTLLTTQ\obj\Debug\BTLLTTQ.pdb
